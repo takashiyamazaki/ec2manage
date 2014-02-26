@@ -1,3 +1,5 @@
+require "date"
+
 class Date
   # 平日ならtrue
   def weekday?
