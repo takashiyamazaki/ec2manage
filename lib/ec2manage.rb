@@ -1,6 +1,6 @@
 require "ec2manage/version"
 require "ec2manage/instance"
-require "aws-sdk"
+require "aws-sdk-v1"
 
 module Ec2manage
   module Logging
